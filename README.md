@@ -1,4 +1,4 @@
-## Incubit. Inc. challenge: Building Detection and Classification in Satellite Images.
+## Incubit Challenge: Building Detection and Classification in Satellite Images
 
 This repository contains:
 
