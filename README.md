@@ -8,3 +8,8 @@ Predicted (Left) VS Ground Truth (Right):
 
 Predicted Map:
 
+![image_1](https://user-images.githubusercontent.com/60068344/200296494-23c7b8e8-5dc2-4136-bd01-d71decdf1fc7.png)
+
+Model:
+
+![image](https://user-images.githubusercontent.com/60068344/200296232-2524cace-576b-42a7-93ce-c92d23afceb5.png)
