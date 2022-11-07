@@ -1,10 +1,10 @@
 ## Building Detection and Classification in Satellite Images
 
-This repository contains:
+Building detection and classification in satellite images of Tokyo via image segmentation (Mask RCNN).
 
-  1) The code in .ipynb format.
-  2) The annotations for the testing data.
+Predicted (Left) VS Ground Truth (Right):
 
-In case you want the trained models in .pth format, I would be happy to send them via e-mail.
+![image](https://user-images.githubusercontent.com/60068344/200295675-419cfda7-1cad-4449-b980-7a1cec7b68ad.png)
 
-Thank you!
+Predicted Map:
+
