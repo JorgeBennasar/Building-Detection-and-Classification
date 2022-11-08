@@ -9,7 +9,3 @@ Predicted Map (Green: Buildings, Blue: Houses, Red: Sheds/Garages):
 Predicted (Left) VS Ground Truth (Right) (Green: Buildings, Blue: Houses, Red: Sheds/Garages):
 
 ![image](https://user-images.githubusercontent.com/60068344/200295675-419cfda7-1cad-4449-b980-7a1cec7b68ad.png)
-
-Model:
-
-![image](https://user-images.githubusercontent.com/60068344/200296232-2524cace-576b-42a7-93ce-c92d23afceb5.png)
